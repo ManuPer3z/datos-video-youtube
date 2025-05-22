@@ -21,7 +21,7 @@ En el video se muestra cómo:
 - Agrupar ventas por género y año
 - Visualizar resultados con gráficos
 
-▶️ Puedes ver el video aquí: [ENLACE AL VIDEO DE YOUTUBE]
+▶️ Puedes ver el video aquí: https://www.youtube.com/watch?v=JY4Kbn62nyo
 
 ## 💾 Cómo usar el dataset
 
